@@ -1,90 +1,71 @@
-<img alt="intro" src="https://www.bfu.bg/uploads/pages/citn_ad_site_3.png" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4f953bd3-9ad4-417d-8eeb-654861fe3139" />
 
-### Hi, I am Kelvin Njoroge 👋
-Supply Chain & Operations Analyst | Data Analytics | FMCG | Power BI | SQL | Python | SAP ERP
----
 
-##### I help businesses transform supply chain data into smarter decisions.
+# Hi, I'm Kelvin Njoroge 👋
 
-With experience across agribusiness, retail, and consulting projects, I specialize in using data analytics to improve inventory management, demand forecasting, procurement, and operational efficiency.
+**Supply Chain & Operations Analyst | FMCG | Power BI · SQL · Python · SAP ERP**
 
-🚀 What I Do
-Supply Chain & Operations | Data Analytics & Technology |
-|--------------------------|----------------------------|
-| 📦 Supply Chain Analytics | 📊 Power BI Dashboard Development |
-| 📈 Demand Forecasting | 🗄 SQL Data Analysis |
-| 📉 Inventory Optimization | 🐍 Python for Business Analytics |
-| 🏭 Operations Management | 🔄 SAP ERP Reporting & Analysis |
+📍 Nairobi, Kenya · 📧 kelvin.njoroge156@gmail.com · 
+💼 [LinkedIn](https://www.linkedin.com/in/kelvinnjoroge-2b4k)
 
 ---
-#### 💡 My Mission
 
-Most organizations collect vast amounts of operational data but struggle to convert it into actionable insights.
+### What I Do
 
-My goal is to bridge the gap between supply chain operations and data analytics by building solutions that help businesses:
+I help FMCG businesses cut costs and stock smarter by turning raw 
+supply chain data into decisions that actually move the needle.
 
-* Reduce inventory costs
-* Improve product availability
-* Optimize procurement decisions
-* Increase operational efficiency
-* Make data-driven decisions faster
+3+ years across agribusiness, retail, and consulting including 
+freelance work with international clients on Upwork.
+
 ---
 
-  #### 🛠 Tech Stack
-  
-| Analytics & BI Skills | 🐍 Python  |
-|:---------------------|:--|
-| 📊 Power BI | 📈 Excel |
-| ⚡ Power Pivot | 🔄 Power Query |
-| 🗄 SQL | 
+### 🔬 Featured Project
 
---- 
+#### [Beer Demand Forecasting & Inventory Optimization — East Africa FMCG](https://github.com/Kelvin-N-Analytics/beer-demand-forecasting-east-africa)
 
-#### Supply Chain
+End-to-end supply chain analytics project modelling 6 EABL/KWAL 
+SKUs across 4 Kenyan regions over 36 months.
 
-* Demand Planning
-* Inventory Management
-* Procurement Analytics
-* Supplier Performance Analysis
-* Logistics & Distribution Analytics
-* SAP ERP
+| Result | Figure |
+|---|---|
+| Forecast accuracy improvement | 47% (MAPE: 15.6% → 8.2%) |
+| Annual holding cost saving (Nairobi) | KES 718,944 |
+| Projected saving across 4 regions | KES ~2,400,000 |
+| Promotional demand lift identified | +26.6% |
+
+`Python` `Pandas` `Statsmodels` `Matplotlib` `Power BI`
+
 ---
 
-#### Python Libraries
+### 🛠 Tools & Skills
 
-| Pandas | NumPy |
-|:---------------------|:--|
-| Matplotlib | Seaborn |
-| Scikit-learn | |
+| Supply Chain | Analytics & BI | Programming |
+|---|---|---|
+| Demand Forecasting | Power BI | Python (Pandas, NumPy, Matplotlib) |
+| Inventory Optimization | SQL | Statsmodels |
+| Supplier Performance | Excel & Power Query | Jupyter Notebook |
+| S&OP Planning | SAP ERP | |
 
---- 
+---
 
-#### 📜 Certifications
-* Excel Data Analysis
-* Business Analytics with Excel
-* Operations and Supply Chain Management
-* The Non-Technical Skills of Effective Data Analysts
-* Data Fluency: Exploring and Describing
---- 
+### 📜 Certifications
 
-#### 🌍 Open to Opportunities
-I am interested in:
+- Operations and Supply Chain Management
+- Business Analytics with Excel
+- Excel Data Analysis
+- Data Fluency: Exploring and Describing
+- The Non-Technical Skills of Effective Data Analysts
 
-* Supply Chain Analyst Roles
-* Operations Analyst Roles
-* Data Analyst Roles
-* FMCG Analytics
-* Supply Chain Digital Transformation Projects
-* Freelance Analytics Consulting
---- 
+---
 
-🤝 Let's Connect
+### 🌍 Open To
 
-📧 Email: kelvin.njoroge156@gmail.com
+Supply Chain Analyst · Operations Analyst · Data Analyst · FMCG Analytics
 
-💼 LinkedIn: linkedin.com/in/kelvin-njoroge-2b4k
+---
 
-"Turning supply chain data into decisions that drive business performance."
+*"Turning supply chain data into decisions that drive business performance."*
 
 
 
